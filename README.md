@@ -1,4 +1,6 @@
 <h1 align="center">   Sampada Kakade</h1>
+![Sampada Kakade](https://github.com/your-username/your-repo/raw/main/sampada-kakade.gif)
+
 <h3 align="center">💻 Full Stack Developer | AI Enthusiast | DSA Learner</h3>
 
 <h3 align="left">Connect with me:</h3>
