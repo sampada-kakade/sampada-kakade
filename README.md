@@ -1,4 +1,43 @@
-<h1 align="center">   Sampada Kakade</h1>
+
+<h1 class="fast-name">
+  <span>S</span><span>a</span><span>m</span><span>p</span><span>a</span><span>d</span><span>a</span>
+  <span>K</span><span>a</span><span>k</span><span>a</span><span>d</span><span>e</span>
+</h1>
+
+<style>
+.fast-name {
+  font-family: 'Poppins', sans-serif;
+  font-size: 48px;
+  color: #00ffcc;
+  text-align: center;
+}
+
+.fast-name span {
+  opacity: 0;
+  display: inline-block;
+  animation: fadeIn 0.1s forwards;
+}
+
+.fast-name span:nth-child(1) { animation-delay: 0.1s; }
+.fast-name span:nth-child(2) { animation-delay: 0.2s; }
+.fast-name span:nth-child(3) { animation-delay: 0.3s; }
+.fast-name span:nth-child(4) { animation-delay: 0.4s; }
+.fast-name span:nth-child(5) { animation-delay: 0.5s; }
+.fast-name span:nth-child(6) { animation-delay: 0.6s; }
+.fast-name span:nth-child(7) { animation-delay: 0.7s; }
+.fast-name span:nth-child(8) { animation-delay: 0.8s; }
+.fast-name span:nth-child(9) { animation-delay: 0.9s; }
+.fast-name span:nth-child(10) { animation-delay: 1s; }
+.fast-name span:nth-child(11) { animation-delay: 1.1s; }
+.fast-name span:nth-child(12) { animation-delay: 1.2s; }
+.fast-name span:nth-child(13) { animation-delay: 1.3s; }
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: scale(0.8); }
+  to { opacity: 1; transform: scale(1); }
+}
+</style>
+
 <h3 align="center">💻 Full Stack Developer | AI Enthusiast | DSA Learner</h3>
 
 <h3 align="left">Connect with me:</h3>
